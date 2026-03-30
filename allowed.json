@@ -1,6 +1,14 @@
 {
-  "updated": "2026-03-21T05:08:30.194Z",
+  "updated": "2026-03-30T23:56:01.005Z",
   "students": [
+    {
+      "ci": "1234567",
+      "name": "Aldair Quispe"
+    },
+    {
+      "ci": "6739859",
+      "name": "Daniela Rojas"
+    },
     {
       "ci": "6760230",
       "name": "Carla Conde"
