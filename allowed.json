@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T00:11:01.911Z",
+  "updated": "2026-03-31T01:17:52.470Z",
   "students": [
     {
       "ci": "1234567",
@@ -16,6 +16,14 @@
     {
       "ci": "6939859",
       "name": "Daniela Angela Roja Vega"
+    },
+    {
+      "ci": "8292245",
+      "name": "Lia Carola Salazar Torrez"
+    },
+    {
+      "ci": "16358552",
+      "name": "Araceli Aliaga Patty"
     }
   ]
 }
